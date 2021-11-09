@@ -1,3 +1,6 @@
 /BUS_BusinessLayer/bin
 /DAL_DataAccessLayer/bin
 /GUI_PresentationLayer/bin
+/BUS_BusinessLayer/obj
+/DAL_DataAccessLayer/obj
+/GUI_PresentationLayer/obj
